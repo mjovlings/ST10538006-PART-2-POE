@@ -1,0 +1,6 @@
+target/
+*.class
+stored_messages.json
+*.tmp
+.idea/
+nbproject/private/

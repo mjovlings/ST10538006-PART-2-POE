@@ -1,0 +1,63 @@
+Actual runnable-JAR verification output; prompts do not echo the scripted input.
+
+QuickChat registration
+Enter your first name: Enter your last name: Enter your username: Username successfully captured.
+Enter your password: Password successfully captured.
+Enter your cellphone number (+27): Cell phone number successfully added.
+User registered successfully.
+Enter your username to login (or /quit): Enter your password to login: Welcome Kyle, Smith it is great to see you again.
+Welcome to QuickChat.
+How many messages would you like to enter? 
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+Choose an option: Coming Soon.
+
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+Choose an option: 
+Message number: 0
+Enter recipient number (+27): Cell phone number successfully captured.
+Enter message (maximum 250 characters): Message ready to send.
+Message ID generated: 8937023358
+1) Send Message
+2) Disregard Message
+3) Store Message to send later
+Choose an action: Message successfully sent.
+Message ID: 8937023358
+Message Hash: 89:0:HITONIGHT
+Recipient: +27718693002
+Message: Hi Mike, can you join us for dinner tonight?
+
+Message number: 1
+Enter recipient number (+27): Cell phone number is incorrectly formatted or does not contain an international code. Please correct the number and try again.
+Enter message (maximum 250 characters): Message ready to send.
+Message ID generated: 6317272059
+1) Send Message
+2) Disregard Message
+3) Store Message to send later
+Choose an action: Press 0 to delete the message.
+Enter 0 to delete, or 1 to keep editing: Message disregarded.
+
+Message number: 2
+Enter recipient number (+27): Cell phone number successfully captured.
+Enter message (maximum 250 characters): Message ready to send.
+Message ID generated: 9519713797
+1) Send Message
+2) Disregard Message
+3) Store Message to send later
+Choose an action: Message successfully stored.
+Total messages sent: 1
+
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+Choose an option: You have reached your message limit.
+Total messages sent: 1
+
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+Choose an option: Total messages sent: 1
+Goodbye.
